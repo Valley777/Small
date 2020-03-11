@@ -1,8 +1,15 @@
-
+/************TAG SELECTORS***********/
 title{font-style:sans-serif;color: darkblue;}
-h2{font-style:serif ;color:darkblue;}
+h2{font-style:serif ;color:lime;}
 
-
-body {background-color:#a8d3da;
-
+img:hover{background-color:gold}
+body {background-color:gray;background-image;
 }
+*/
+/********class selectors**************/
+.jeans {background-color:green ;}
+.trousers{background-color:red;}
+.circular{border-radius:100%;
+}
+/********ID selectors**************/
+#heading{ color:red}
